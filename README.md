@@ -1,8 +1,7 @@
 
 # Car Sales-Dashboard
 
-### Dashboard Link : https://app.powerbi.com/groups/me/reports/384d017e-e935-44dc-9e7d-1626c1a36de1/ReportSection
-
+### Dashboard Link : https://app.powerbi.com/view?r=eyJrIjoiODE1MjVlOGItYThkMC00OWY5LWIzYzUtZGYxMzRmZGIyM2EzIiwidCI6ImQyZWNmMmFkLTQ3ZTQtNDgxMi1hODAzLWVmMGZiNGNkODBmMiJ9
 ## Background
 
 Our company is a car dealership that sells various car models. To effectively track and analyse our sales performance, we need a comprehensive Car Sales Dashboard in Power BI. 
