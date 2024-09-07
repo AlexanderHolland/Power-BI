@@ -1,7 +1,7 @@
 # Pizza Sales Dashboard
 
 ### Dashboard Link: 
-[View Dashboard](https://app.powerbi.com/view?r=eyJrIjoiOGJmYTdiYzctYjUzYi00ODg4LWI5NTktZWNkM2E5OWU5ZjE1IiwidCI6ImQyZWNmMmFkLTQ3ZTQtNDgxMi1hODAzLWVmMGZiNGNkODBmMiJ9)
+[View Dashboard]([https://app.powerbi.com/view?r=eyJrIjoiOGJmYTdiYzctYjUzYi00ODg4LWI5NTktZWNkM2E5OWU5ZjE1IiwidCI6ImQyZWNmMmFkLTQ3ZTQtNDgxMi1hODAzLWVmMGZiNGNkODBmMiJ9](https://app.powerbi.com/view?r=eyJrIjoiNDBmNDQwZWMtZTA5NS00NGZlLThlYWYtZWRmYWEyNDgwNGVlIiwidCI6ImQyZWNmMmFkLTQ3ZTQtNDgxMi1hODAzLWVmMGZiNGNkODBmMiJ9)
 
 ### SQL Link: 
 [View SQL Script](https://github.com/AlexanderHolland/Portfolio-Projects/blob/main/Pizza%20Sales.sql)
