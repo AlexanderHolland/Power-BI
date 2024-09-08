@@ -1,6 +1,6 @@
 # Pizza Sales Dashboard
 
-![pizza  3](https://github.com/user-attachments/assets/facf57d5-e25a-4a0f-949d-3b1e15185a11)
+![pizza  3](https://github.com/user-attachments/assets/e809cea0-665b-42a4-8f9c-ebc51f546004)
 ### Dashboard Link: 
 [View Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNDBmNDQwZWMtZTA5NS00NGZlLThlYWYtZWRmYWEyNDgwNGVlIiwidCI6ImQyZWNmMmFkLTQ3ZTQtNDgxMi1hODAzLWVmMGZiNGNkODBmMiJ9)
 
