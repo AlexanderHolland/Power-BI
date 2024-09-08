@@ -1,7 +1,7 @@
 Data Cleaning in SQL
 ====================
 
-[![](images/house 2.jpg)](![house 2](https://github.com/user-attachments/assets/4e89ea29-8d02-4d45-8f73-8af77f17482f))
+(https://github.com/user-attachments/assets/4e89ea29-8d02-4d45-8f73-8af77f17482f))
 
 ### SQL Script Link:
 
