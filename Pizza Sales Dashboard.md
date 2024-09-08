@@ -1,4 +1,4 @@
-# Pizza Sales Dashboard
+# Pizza Sales-Dashboard
 
 ![pizza  3](https://github.com/user-attachments/assets/e809cea0-665b-42a4-8f9c-ebc51f546004)
 ### Dashboard Link: 
