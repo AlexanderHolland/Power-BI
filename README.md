@@ -1,7 +1,7 @@
 COVID-19 Dashboard
 =========================
 
-[![Dashboard Snapshot](images/Covid Dash.png)](https://public.tableau.com/shared/48FJ5RZB7?:display_count=n&:origin=viz_share_link)
+[![Dashboard Snapshot](![Covid Dash](https://github.com/user-attachments/assets/a0239b92-fd69-45dd-bd10-19943cce18d8))
 
 ### Dashboard Link:
 
