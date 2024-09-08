@@ -1,7 +1,7 @@
 COVID-19 Dashboard
 =========================
 
-[![Dashboard Snapshot](![Covid Dash] https://github.com/user-attachments/assets/a0239b92-fd69-45dd-bd10-19943cce18d8)
+[![Dashboard Snapshot](https://github.com/user-attachments/assets/a0239b92-fd69-45dd-bd10-19943cce18d8)
 
 ### Dashboard Link:
 
