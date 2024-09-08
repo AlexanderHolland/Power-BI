@@ -1,6 +1,7 @@
 
 # Car Sales-Dashboard
 
+![Car](https://github.com/user-attachments/assets/14776aa5-c403-42a1-9c98-ea3fe0d3bdb7)
 ### Dashboard Link : https://app.powerbi.com/view?r=eyJrIjoiODE1MjVlOGItYThkMC00OWY5LWIzYzUtZGYxMzRmZGIyM2EzIiwidCI6ImQyZWNmMmFkLTQ3ZTQtNDgxMi1hODAzLWVmMGZiNGNkODBmMiJ9
 ## Background
 
